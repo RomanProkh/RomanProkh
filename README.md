@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1>Hi, I'm Roman!👋</h1>
+<h2>I'm currently studying software engineering at Metropolia University Of Applied Sciences and here are some of my projects 🖥⚙️</h2>
 
-<!--
-**RomanProkh/RomanProkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Web Development Projects:</h3>
 
-Here are some ideas to get you started:
+- <b>Fullstack Project with some testing(Vue.js, Express.js, JavaScript, Robot Framework (SeleniumLibrary))</b>
+  - [Practicing Vue.js, Robot Framework and creation and using of own API](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- <b>Pure JavaScript with CSS</b>
+  - [Practicing JavaScript, HTML and CSS](https://github.com/joshmadakor1/Algorithms-Practice)
+  
+<h3>Java Projects</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Apache Maven Project</b>
+  - [Practicing Java, working with databases, JavaFx and localisation ](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+
+- <b>Mobile App Project</b>
+  - [Practicing creating android mobile application](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+
+<h2> Contact me:</h2>
+
+prokhozhev.roman4@gmail.com
+<img align="right" alt="Gmail" width="22px" src="https://img.icons8.com/fluency/512/gmail.png" />
+
+roman.prokhozhev@metropolia.fi
+<img align="right" alt="Email" width="22px" src="https://img.icons8.com/fluency/512/composing-mail.png" />
+
+
