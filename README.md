@@ -11,10 +11,10 @@
 <h3>Java Projects</h3>
 
 - <b>Apache Maven Project</b>
-  - [Practicing Java, working with databases, JavaFx and localisation ](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+  - [Practicing Java, working with databases, JavaFx and localisation ](https://github.com/RomanProkh/WMS)</b>
 
 - <b>Mobile App Project</b>
-  - [Practicing creating android mobile application](https://github.com/joshmadakor1/Algorithms-Practice)</b>
+  - [Practicing creating android mobile application](https://github.com/RomanProkh/ryhtiPlus)</b>
 
 <h2> Contact me:</h2>
 
