@@ -1,6 +1,6 @@
-<h1>Hi, I'm Roman!👋</h1>
-<h2>I'm currently studying software engineering at Metropolia University Of Applied Sciences and here are some of my projects 🖥⚙️</h2>
-
+<h1>Hi, my name is Roman!👋</h1>
+<h2>I'm currently studying software engineering at Metropolia University Of Applied Sciences and here are a few examples of my projects 🖥⚙️</h2>
+<h2>Updates are coming soon 👀</h2>
 <h3>Web Development Projects:</h3>
 
 - <b>Fullstack Project with some testing(Vue.js, Express.js, JavaScript, Robot Framework (SeleniumLibrary))</b>
