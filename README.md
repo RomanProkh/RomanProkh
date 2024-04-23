@@ -1,5 +1,5 @@
 <h1>Hi, my name is Roman!👋</h1>
-<h2>I'm currently studying software engineering at Metropolia University Of Applied Sciences and here are a few examples of my projects 🖥⚙️ <br />
+<h2>I'm currently studying software engineering at Metropolia University Of Applied Sciences and here are a few examples of my personal projects 🖥⚙️ <br />
 Updates are coming soon 👀 </h2>
 <h3>Web Development Projects:</h3>
 
