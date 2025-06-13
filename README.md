@@ -2,7 +2,8 @@
 <h3> I'm a software engineer based in Finland, currently working at the Finnish Food Authority (Ruokavirasto) as a Test Automation Engineer, ensuring the reliability of critical digital services used by other public authorities. <br> <br>
 I also work at Metropolia University of Applied Sciences, where I design and develop complete online courses — from planning the structure to creating content, exercises, and implementing everything in Moodle. <br> <br>
 Most of my current work is not open-source, but I hope to share selected tools, examples, or educational materials here in the future. <br> <br>
-Thanks for visiting! 🛠️📚 <br /> </h3>
+Thanks for visiting! 🛠️📚 <br /> </h3> <br>
+<h2> Some older personal projects </h2>
 <h3>Web Development Projects:</h3>
 
 - <b>Fullstack Project with some testing(Vue.js, Express.js, JavaScript, Robot Framework (SeleniumLibrary))</b>
@@ -25,5 +26,3 @@ prokhozhev.roman4@gmail.com
 
 roman.prokhozhev@metropolia.fi
 <img align="right" alt="Email" width="22px" src="https://img.icons8.com/fluency/512/composing-mail.png" />
-
-
