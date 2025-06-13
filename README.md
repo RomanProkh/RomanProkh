@@ -3,6 +3,12 @@
 I also work at Metropolia University of Applied Sciences, where I design and develop complete online courses — from planning the structure to creating content, exercises, and implementing everything in Moodle. <br> <br>
 Most of my current work is not open-source, but I hope to share selected tools, examples, or educational materials here in the future. <br> <br>
 Thanks for visiting! 🛠️📚 <br /> </h3> 
+<h2> Educational projects </h2>
+<h3> Qt Basics Course </h3>
+
+- <b> Some code snippets, demo projects, and setup guides for the Qt Basics Metropolia UAS (5 ECTS) course.</b>
+  - [Qt Basics (5 ECTS) Metropolia UAS](https://github.com/RomanProkh/QtBasics)
+  
 <h2> Some older personal projects </h2>
 <h3>Web Development Projects:</h3>
 
