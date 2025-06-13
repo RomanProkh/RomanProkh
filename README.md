@@ -2,7 +2,7 @@
 <h3> I'm a software engineer based in Finland, currently working at the Finnish Food Authority (Ruokavirasto) as a Test Automation Engineer, ensuring the reliability of critical digital services used by other public authorities. <br> <br>
 I also work at Metropolia University of Applied Sciences, where I design and develop complete online courses — from planning the structure to creating content, exercises, and implementing everything in Moodle. <br> <br>
 Most of my current work is not open-source, but I hope to share selected tools, examples, or educational materials here in the future. <br> <br>
-Thanks for visiting! 🛠️📚 <br /> </h3> <br>
+Thanks for visiting! 🛠️📚 <br /> </h3> 
 <h2> Some older personal projects </h2>
 <h3>Web Development Projects:</h3>
 
