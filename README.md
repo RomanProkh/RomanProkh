@@ -6,7 +6,7 @@ Thanks for visiting! 🛠️📚 <br /> </h3>
 <h2> Educational projects </h2>
 <h3> Qt Basics Course </h3>
 
-- <b> Some code snippets, demo projects, and setup guides for the Qt Basics Metropolia UAS (5 ECTS) course.</b>
+- <b> Some code snippets, demo projects, and setup guides for the Qt Basics MOOC (5 ECTS) course.</b>
   - [Qt Basics (5 ECTS) Metropolia UAS](https://github.com/RomanProkh/QtBasics)
   
 <h2> Some older personal projects </h2>
